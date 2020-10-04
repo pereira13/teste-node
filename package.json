@@ -1,0 +1,23 @@
+{
+  "name": "teste-node",
+  "version": "1.0.0",
+  "description": "projeto teste da aula em node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pereira13/teste-node.git"
+  },
+  "keywords": [
+    "node",
+    "git"
+  ],
+  "author": "gabriel pereira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pereira13/teste-node/issues"
+  },
+  "homepage": "https://github.com/pereira13/teste-node#readme"
+}
